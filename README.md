@@ -1,1 +1,1 @@
-# BioinformHER_Module-1-ProjectMini-Mini
+# BioinformHER_Module-1-Mini-Project
