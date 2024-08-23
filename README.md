@@ -6,28 +6,28 @@ This repository contains the development of the BioinformHER mini project, in wh
 
 The TNF gene sequence was downloaded and visualized in BioEdit. The sequence can be seen in the following image:
 
-[Image task 1](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%201.png)
+[Image Task 1](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%201.png)
 ![](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%201.png)
 
 ## Task 2. Generate a Translation of a DNA or RNA Sequence intro Amino Acids
 
 The obtained amino acid sequence is presented in the following images:
 
-https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-1.png
+[Image Task 2-1](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-1.png)
 ![](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-1.png)
 
-https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-2.png
+[Image Task 2-2](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-2.png)
 ![](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-2.png)
 
-https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-3.png
+[Image Task 2-3](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-3.png)
 ![](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%202-3.png)
 
 ## Task 3. Find ORFs (Open Trading Frames) in a DNA or RNA Sequence 
 
 ORFs are regions that begin with a start codon (usually ATG) and extend to the first stop codon. BioEdit identified 17 possible ORFs at different positions and with various lengths. For example, the first ORF is located between positions 178 and 606, and has a length of 143 amino acids.
 
-https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%203.ORFs
-https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%203.png
+[File Task 3. ORFs](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%203.ORFs)
+[Image Task 3](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%203.png)
 ![](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%203.png)
 
 ## Task 4. Analyze Sequence Composition (Nucleotide or Amino Acid Frequencies)
