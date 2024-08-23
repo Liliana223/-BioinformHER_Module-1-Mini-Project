@@ -6,7 +6,7 @@ This repository contains the development of the BioinformHER mini project, in wh
 
 The TNF gene sequence was downloaded and visualized in BioEdit. The sequence can be seen in the following image:
 
-https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%201.png
+[Image task 1](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%201.png)
 ![](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Module-1-Mini-Project/Files/Task%201.png)
 
 ## Task 2. Generate a Translation of a DNA or RNA Sequence intro Amino Acids
