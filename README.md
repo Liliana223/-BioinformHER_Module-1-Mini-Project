@@ -1,7 +1,7 @@
 # BioinformHER Mini Project: Analysis of the Human TNF Gene
 
 This repository contains the development of the BioinformHER mini project, in which the human TNF gene is analyzed. 
-Download the full document at the following link: https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Mini_project_BioinformHER.docx
+Download the full document at: https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project/blob/main/Mini_project_BioinformHER.docx
 
 The proposed tasks and their results are described below:
 
